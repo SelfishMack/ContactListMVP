@@ -7,6 +7,8 @@
 
 import Foundation
 
+	// Новая версия
+
 protocol NewContactPresenterProtocol: AnyObject {
 
 }
