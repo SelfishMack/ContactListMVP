@@ -8,6 +8,8 @@
 import UIKit
 
 class DetailViewController: UIViewController {
+	
+	// Работа с ГИТ и др
     
     @IBOutlet var nameLabel: UILabel!
     @IBOutlet var surnameLabel: UILabel!
